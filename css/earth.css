@@ -1,0 +1,13 @@
+img{
+    
+    width: 250px;
+    height: auto;
+}
+
+.earth{
+ background-color: yellow;
+}
+
+.mars{
+    background-color: green;
+}
