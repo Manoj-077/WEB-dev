@@ -1,13 +1,26 @@
-img{
-    
-    width: 250px;
+img:hover {
+    background-color: rgb(244, 230, 76);
+    width: 280px;
     height: auto;
+}
+h1 {
+   font-style: italic;
+   color: blueviolet;
+}
+body{
+    background-color: rgb(192, 255, 234);
 }
 
 .earth{
- background-color: yellow;
+    background-color: yellow;
+    width: 250px;
+    height: auto;
+    
 }
 
 .mars{
     background-color: green;
+    width: 250px;
+    height: auto;
+    
 }
